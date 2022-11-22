@@ -1,4 +1,4 @@
-package main
+package say_hello_world
 
 import "fmt"
 
